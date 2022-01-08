@@ -11,5 +11,12 @@ Brackets are positioned so that the finger on one hand types the same type of br
 Source of these remaps: https://github.com/ThePrimeagen/keyboards
 
 ## Capslock to Backspace
-I never find myself using Capslock, so I used a Colemak remap, which uses the Capslock key for backspace.
+I never find myself using Capslock, so I used a Colemak remap, which uses the Capslock key for backspace. 
+This allows for a more comfortable error correction while typing. 
 
+## Previews
+### Dvorak 
+![Dvorak preview](https://github.com/Adeity/keyboard/blob/master/dvorak_preview.png)
+### Qwerty 
+![Qwerty preview](https://github.com/Adeity/keyboard/blob/master/qwerty_preview.png)
+<br>(I mainly use the Dvorak variant, this might need some more modification)
